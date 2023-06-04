@@ -3,5 +3,6 @@
   Managers. 
   
 2.Used Rand Between function to make it Dynamic and Implemented Nested If to create 3 color combinations I.e Green for Best Performance, 
-  Yellow for Moderate Performance and Red for Bad Performance.  
+  Yellow for Moderate Performance and Red for Bad Performance. 
+  
 3.Composed one line VBA code for automating month wise performance with 95% accuracy. 
